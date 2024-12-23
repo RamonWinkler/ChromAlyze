@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About | Health Risk Report</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="icon" href="{{ url_for('static', filename='logo.ico') }}" type="image/x-icon">
+</head>
+
+<body>
+    <!-- Header / Navbar -->
+    <header class="navbar">
+        <a href="/" class="logo-link">
+            <img src="{{ url_for('static', filename='logo.ico') }}" alt="Logo" class="logo-img">
+        </a>
+        <ul class="nav-links">
+            <li><a href="/">Home</a></li>
+            <li><a href="/form">Form</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/contact">Contact</a></li>
+        </ul>
+    </header>
+
+    <!-- Main Content -->
+    <main class="body">
+        <section class="report-container">
+            <h1>About Health Risk Report</h1>
+            <p>
+                Welcome to <strong>ChromAlyze</strong>, your personalized health risk analysis platform! Our mission is to empower 
+                individuals with insights about their coronary heart disease (CHD) risks, using state-of-the-art data 
+                analysis and machine learning techniques.
+            </p>
+            <p>
+                Our application provides a user-friendly interface to input health data and generates a comprehensive 
+                report based on scientifically validated models. Whether you're a healthcare professional or an 
+                individual curious about your heart health, ChromAlyze offers a reliable and easy-to-understand risk 
+                assessment.
+            </p>
+            <h1>How It Works</h1>
+            <ul>
+                <li>Input your health metrics in the form provided.</li>
+                <li>Our system analyzes the data using advanced machine learning algorithms.</li>
+                <li>Receive a detailed risk score along with actionable recommendations.</li>
+            </ul>
+            <p>
+                At ChromAlyze, we believe in making healthcare accessible, informative, and proactive. Join us in taking 
+                control of your heart health today.
+            </p>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2024 Health Risk Report. All rights reserved.</p>
+        <ul class="footer-links">
+            <li><a href="/privacy">Privacy Policy</a></li>
+            <li><a href="/terms">Terms of Service</a></li>
+        </ul>
+    </footer>
+</body>
+</html>

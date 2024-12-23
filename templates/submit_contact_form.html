@@ -1,0 +1,47 @@
+<!-- a lot from chatGPT -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank you | Health Risk Report</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="icon" href="/static/logo.ico" type="image/x-icon">
+
+</head>
+
+
+<body>
+      <!-- Header / Navbar -->
+      <header class="navbar">
+        <a href="/" class="logo-link">
+            <img src="{{ url_for('static', filename='logo.ico') }}" alt="Logo" class="logo-img">
+        </a>
+        <ul class="nav-links">
+            <li><a href="/">Home</a></li>
+            <li><a href="/form">Form</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/contact">Contact</a></li>
+        </ul>
+    </header>
+
+    <div class="contact-response-container">
+        <h1>Thank you</h1>    
+        <div class="block-text">
+            <p>{{ answer }}</p>
+        </div>
+        <div class="button-container">
+            <button onclick="location.href='/'" type="button" class="btn-secondary">Go to Homepage</button>
+        </div>
+    </div>
+
+      <!-- Footer -->
+      <footer class="footer">
+        <p>&copy; 2024 Health Risk Report. All rights reserved.</p>
+        <ul class="footer-links">
+            <li><a href="/privacy">Privacy Policy</a></li>
+            <li><a href="/terms">Terms of Service</a></li>
+        </ul>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage | Health Risk Report</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="icon" href="{{ url_for('static', filename='logo.ico') }}" type="image/x-icon">
+</head>
+
+<body>
+    <!-- Header / Navbar -->
+    <header class="navbar">
+        <a href="/" class="logo-link">
+            <img src="{{ url_for('static', filename='logo.ico') }}" alt="Logo" class="logo-img">
+        </a>
+        <ul class="nav-links">
+            <li><a href="/">Home</a></li>
+            <li><a href="/form">Form</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/contact">Contact</a></li>
+        </ul>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <section class="hero">
+            <div class="hero">
+                <h1>Welcome to ChromAlyze</h1>
+                <p>we help you to understand your risk for coronary heart disease</p>
+                <a href="/form" class="btn-primary">Calculate your risk</a>
+            </div>
+        </section>
+    </main>
+    
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2024 Health Risk Report. All rights reserved.</p>
+        <ul class="footer-links">
+            <li><a href="/privacy">Privacy Policy</a></li>
+            <li><a href="/terms">Terms of Service</a></li>
+        </ul>
+    </footer>
+</body>
+</html>

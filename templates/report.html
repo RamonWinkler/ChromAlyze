@@ -1,0 +1,85 @@
+<!-- a lot from chatGPT -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Risk Report</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="icon" href="/static/logo.ico" type="image/x-icon">
+</head>
+
+<body class="{% if risk_level == 'High Risk' %}high-risk{% elif risk_level == 'Elevated Risk' %}elevated-risk{% else %}low-risk{% endif %}">
+    <header class="navbar">
+        <a href="/" class="logo-link">
+            <img src="{{ url_for('static', filename='logo.ico') }}" alt="Logo" class="logo-img">
+        </a>
+        <ul class="nav-links">
+            <li><a href="/">Home</a></li>
+            <li><a href="/form">Form</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/contact">Contact</a></li>
+        </ul>
+    </header>
+    
+    <div class="report-container">
+        <h1>Health Risk Report</h1>
+
+        <!-- Summary of Results -->
+        <div class="summary">
+            <h2>Risk Assessment Summary</h2>
+            <p><strong>Patient Name:</strong> {{ patient_name }}</p>
+            <p><strong>Age:</strong> {{ age }} years</p>
+            <p><strong>Gender:</strong> {{ 'Male' if gender == '1' else 'Female' }}</p>
+            <!-- <p>
+                <strong>Ten-Year CHD Risk:</strong> 
+                <span class="risk-level {{ 'low' if risk_level == 'Low Risk' else 'elevated' if risk_level == 'Elevated Risk' else 'high' }}">
+                    {{ risk_level }}
+                </span>
+            </p> -->
+        </div>
+
+
+
+        <!-- Recommendation Section -->
+        <div class="recommendations">
+            <h2>Recommendations for {{risk_level}}</h2>
+            {% if risk_level == 'High Risk' %}
+                <p><strong>High Risk:</strong> It is advised to consult a healthcare provider for further evaluation and to consider lifestyle modifications.</p>
+               
+            {% elif risk_level == 'Elevated Risk' %}
+                <p><strong>Elevated Risk:</strong> A balanced lifestyle can help manage and potentially reduce CHD risk. Consider:</p>
+  
+            {% else %}
+                <p><strong>Low Risk:</strong> Continue maintaining a healthy lifestyle to keep the CHD risk low. Recommended actions include:</p>
+ 
+            {% endif %}
+            <br> 
+            <div id="output" class="output-container">
+                <p>{{ text|safe }}</p>
+            </div>
+        
+        </div>
+
+
+        <!-- Risk Level Interpretation -->
+        <div class="interpretation">
+            <h2>Risk Level Interpretation</h2>
+            <p>
+                Based on the data provided, the patient's predicted risk of developing coronary heart disease (CHD) over the next ten years is classified as 
+                <strong>{{ risk_level }}</strong>.
+                Machine learning models may make mistakes. If you're not satisfied with the result, consult a healthcare professional.            </p>
+        </div>
+        <button onclick="window.print()" class="btn-primary">Save Report</button>
+
+        <button onclick="location.href='/'" type="button" class="btn-secondary"> go back Startpage </button>
+    </div>
+    <footer class="footer">
+        <p>&copy; 2024 Health Risk Report. All rights reserved.</p>
+        <ul class="footer-links">
+            <li><a href="/privacy">Privacy Policy</a></li>
+            <li><a href="/terms">Terms of Service</a></li>
+        </ul>
+    </footer>
+</body>
+</html>

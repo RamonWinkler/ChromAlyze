@@ -1,0 +1,1074 @@
+Timestamp,Name,male,age,weight,height,heartRate,sysBP,diaBP,totChol,glucose,BPMeds,prevalentStroke,prevalentHyp,diabetes,cigsPerDay,data_processing,BMI,currentSmoker,manual_text,LLM_text,ML-model,Parameters,proba,prediction
+2024-11-22 12:27:25,asogin,1,18,30,50,40,80,50,50,20,1,0,1,0,50,on,120.0,1,"<b>Age-Related Recommendations:</b> <br>
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><b>Smoking Status and Recommendations:</b> <br>
+As a heavy smoker (50 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><b>Blood Pressure Analysis:</b> <br>
+Your blood pressure is 80/50 mmHg, which is normal. Continue taking your prescribed blood pressure medications consistently. Regular monitoring and medication compliance are crucial for managing your blood pressure.
+
+<br><b> Cholesterol Status:</b> <br>
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br> <b> Diabetes and Blood Sugar Analysis:</b> <br>
+Your glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br> <b> Weight Status and Recommendations:</b> <br>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <b> Additional Risk Factors:</b> <br>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","Age-related recommendations: As a young adult, it's important to establish healthy habits for your heart. Let's make this a priority!
+        
+        Smoking status and recommendations: Quitting smoking would greatly reduce your heart disease risk. Check out www.lungenliga.ch for resources. Even cutting back can help.
+        
+        Blood pressure analysis: Your blood pressure is normal, but consistent medication use and monitoring are crucial.
+        
+        Cholesterol status: Keep up the good work! Your cholesterol is in a healthy range.
+        
+        Diabetes and blood sugar analysis: Your blood sugar is normal. Keep it that way with healthy habits.
+        
+        Weight status and recommendations: Your BMI is in the obese range. Let's work together on a weight management plan. Even a small weight loss can make a big difference for your heart.
+        
+        Additional risk factors: Your resting heart rate is low, but if you're not a trained athlete, let's discuss this with your healthcare provider.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",30.85,0
+2024-11-22 12:29:53,asogin,1,18,30,50,40,80,50,50,20,1,0,1,0,50,on,120.0,1,"<b>Age-Related Recommendations:</b> <br>
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><b>Smoking Status and Recommendations:</b> <br>
+As a heavy smoker (50 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><b>Blood Pressure Analysis:</b> <br>
+Your blood pressure is 80/50 mmHg, which is normal. Continue taking your prescribed blood pressure medications consistently. Regular monitoring and medication compliance are crucial for managing your blood pressure.
+
+<br><b> Cholesterol Status:</b> <br>
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br> <b> Diabetes and Blood Sugar Analysis:</b> <br>
+Your glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br> <b> Weight Status and Recommendations:</b> <br>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <b> Additional Risk Factors:</b> <br>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","Age-related recommendations: As a young adult, it's important to establish healthy habits for your heart. Let's make this a priority!
+        
+        Smoking status and recommendations: Quitting smoking would greatly reduce your heart disease risk. Check out www.lungenliga.ch for resources. Even cutting back can help.
+        
+        Blood pressure analysis: Your blood pressure is normal, but consistent medication use and monitoring are crucial.
+        
+        Cholesterol status: Keep up the good work! Your cholesterol is in a healthy range.
+        
+        Diabetes and blood sugar analysis: Your blood sugar is normal. Keep it that way with healthy habits.
+        
+        Weight status and recommendations: Your BMI is in the obese range. Let's work together on a weight management plan. Even a small weight loss can make a big difference for your heart.
+        
+        Additional risk factors: Your resting heart rate is low, but if you're not a trained athlete, let's discuss this with your healthcare provider.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",30.85,0
+2024-11-22 12:30:38,asogin,1,18,30,50,40,80,50,50,20,1,0,1,0,50,on,120.0,1,"<b>Age-Related Recommendations:</b> <br>
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><b>Smoking Status and Recommendations:</b> <br>
+As a heavy smoker (50 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><b>Blood Pressure Analysis:</b> <br>
+Your blood pressure is 80/50 mmHg, which is normal. Continue taking your prescribed blood pressure medications consistently. Regular monitoring and medication compliance are crucial for managing your blood pressure.
+
+<br><b> Cholesterol Status:</b> <br>
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br> <b> Diabetes and Blood Sugar Analysis:</b> <br>
+Your glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br> <b> Weight Status and Recommendations:</b> <br>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <b> Additional Risk Factors:</b> <br>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",30.85,0
+2024-11-22 12:30:46,asogin,1,18,30,50,40,80,50,50,20,1,0,1,0,50,on,120.0,1,"<b>Age-Related Recommendations:</b> <br>
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><b>Smoking Status and Recommendations:</b> <br>
+As a heavy smoker (50 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><b>Blood Pressure Analysis:</b> <br>
+Your blood pressure is 80/50 mmHg, which is normal. Continue taking your prescribed blood pressure medications consistently. Regular monitoring and medication compliance are crucial for managing your blood pressure.
+
+<br><b> Cholesterol Status:</b> <br>
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br> <b> Diabetes and Blood Sugar Analysis:</b> <br>
+Your glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br> <b> Weight Status and Recommendations:</b> <br>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <b> Additional Risk Factors:</b> <br>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",30.85,0
+2024-11-22 12:32:57,asogin,1,18,30,50,40,80,50,50,20,1,0,1,0,50,on,120.0,1,"<b>Age-Related Recommendations:</b> <br>
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><b>Smoking Status and Recommendations:</b> <br>
+As a heavy smoker (50 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><b>Blood Pressure Analysis:</b> <br>
+Your blood pressure is 80/50 mmHg, which is normal. Continue taking your prescribed blood pressure medications consistently. Regular monitoring and medication compliance are crucial for managing your blood pressure.
+
+<br><b> Cholesterol Status:</b> <br>
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br> <b> Diabetes and Blood Sugar Analysis:</b> <br>
+Your glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br> <b> Weight Status and Recommendations:</b> <br>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <b> Additional Risk Factors:</b> <br>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        Age-related recommendations: As a young adult, it's important to establish healthy habits for your heart. Let's make this a priority!
+        
+        Smoking status and recommendations: Quitting smoking would greatly reduce your heart disease risk. Check out www.lungenliga.ch for resources. Even cutting back can help.
+        
+        Blood pressure analysis: Your blood pressure is normal, but consistent medication use and monitoring are crucial.
+        
+        Cholesterol status: Keep up the good work! Your cholesterol is in a healthy range.
+        
+        Diabetes and blood sugar analysis: Your blood sugar is normal. Keep it that way with healthy habits.
+        
+        Weight status and recommendations: Your BMI is in the obese range. Let's work together on a weight management plan. Even a small weight loss can make a big difference for your heart.
+        
+        Additional risk factors: Your resting heart rate is low, but if you're not a trained athlete, let's discuss this with your healthcare provider.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",30.85,0
+2024-11-22 12:33:52,asogin,1,18,30,50,40,80,50,50,20,1,0,1,0,50,on,120.0,1,"<b>Age-Related Recommendations:</b> <br>
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><b>Smoking Status and Recommendations:</b> <br>
+As a heavy smoker (50 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><b>Blood Pressure Analysis:</b> <br>
+Your blood pressure is 80/50 mmHg, which is normal. Continue taking your prescribed blood pressure medications consistently. Regular monitoring and medication compliance are crucial for managing your blood pressure.
+
+<br><b> Cholesterol Status:</b> <br>
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br> <b> Diabetes and Blood Sugar Analysis:</b> <br>
+Your glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br> <b> Weight Status and Recommendations:</b> <br>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <b> Additional Risk Factors:</b> <br>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        Dear 18-year-old,
+        While you're still young, it's important to maintain heart-healthy habits. This is a great opportunity to establish good health practices that will benefit you in the long term.
+        As a heavy smoker, quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+        Your blood pressure is normal, but consistent medication compliance and regular monitoring are crucial for managing it.
+        Your total cholesterol is within the normal range, so keep up your healthy habits!
+        Your glucose level is normal, so maintain healthy habits to keep it in this range.
+        Your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+        Your resting heart rate is low, but if you're not a trained athlete, discuss this with your healthcare provider.
+        Stay healthy and happy!",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",30.85,0
+2024-11-22 12:37:54,difop,1,18,30,50,40,80,50,50,20,0,0,0,0,0,120.0,0,"<b>Age-Related Recommendations:</b> <br>
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><b>Smoking Status and Recommendations:</b> <br>
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><b>Blood Pressure Analysis:</b> <br>
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><b> Cholesterol Status:</b> <br>
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br> <b> Diabetes and Blood Sugar Analysis:</b> <br>
+Your glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br> <b> Weight Status and Recommendations:</b> <br>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <b> Additional Risk Factors:</b> <br>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",6.02,0
+2024-11-22 12:38:01,difop,1,18,30,50,40,80,50,50,20,0,0,0,0,0,on,120.0,0,"<b>Age-Related Recommendations:</b> <br>
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><b>Smoking Status and Recommendations:</b> <br>
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><b>Blood Pressure Analysis:</b> <br>
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><b> Cholesterol Status:</b> <br>
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br> <b> Diabetes and Blood Sugar Analysis:</b> <br>
+Your glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br> <b> Weight Status and Recommendations:</b> <br>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <b> Additional Risk Factors:</b> <br>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        As a young adult, it's crucial to maintain heart-healthy habits to benefit your long-term health. Since you're currently a non-smoker, keep up the great choice! Your blood pressure and cholesterol levels are normal, so keep up the healthy habits. However, your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health. Your resting heart rate is low, so discuss this with your healthcare provider if you're not a trained athlete. Your blood sugar level is normal, so maintain healthy habits to keep it in this range.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",6.02,0
+2024-11-22 12:39:50,dgfqop,0,18,30,50,40,80,50,50,20,0,0,0,0,0,120.0,0,"<b>Age-Related Recommendations:</b> <br>
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><b>Smoking Status and Recommendations:</b> <br>
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><b>Blood Pressure Analysis:</b> <br>
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><b> Cholesterol Status:</b> <br>
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br> <b> Diabetes and Blood Sugar Analysis:</b> <br>
+Your glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br> <b> Weight Status and Recommendations:</b> <br>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <b> Additional Risk Factors:</b> <br>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",4.46,0
+2024-11-22 12:40:47,dgfqop,0,18,30,50,40,80,50,50,20,0,0,0,0,0,120.0,0,"<b>Age-Related Recommendations:</b> <br>
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><b>Smoking Status and Recommendations:</b> <br>
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><b>Blood Pressure Analysis:</b> <br>
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><b> Cholesterol Status:</b> <br>
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br> <b> Diabetes and Blood Sugar Analysis:</b> <br>
+Your glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br> <b> Weight Status and Recommendations:</b> <br>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <b> Additional Risk Factors:</b> <br>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",4.46,0
+2024-11-22 12:41:09,dgfqop,0,18,30,50,40,80,50,50,20,0,0,0,0,0,120.0,0,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",4.46,0
+2024-11-22 12:41:34,dgfqop,0,18,30,50,40,80,50,50,20,0,0,0,0,80,on,120.0,1,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a heavy smoker (80 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        Dear 18-year-old,
+        While you're still young, it's important to maintain heart-healthy habits. This is a great opportunity to establish good health practices that will benefit you in the long term.
+        As a heavy smoker, quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+        Your blood pressure is normal, and your cholesterol level is within the normal range. Keep up your healthy habits!
+        Your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+        Your resting heart rate is low, but if you're not a trained athlete, discuss this with your healthcare provider.
+        Stay healthy and keep up the good work!",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",28.28,0
+2024-11-22 15:44:52,Leonie,0,30,60,164,75,120,85,100,100,0,0,0,0,0,on,22.308149910767405,0,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 30, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 120/85 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 100 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your glucose level of 100 mg/dL indicates pre-diabetes. Focus on diet, exercise, and weight management to prevent progression to diabetes.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 22.0 is in the healthy range. Maintain your healthy weight through balanced nutrition and regular exercise.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        While you're still young at 30, it's crucial to maintain heart-healthy habits as a foundation for long-term health. As a non-smoker, keep up the great choice! Your blood pressure and cholesterol levels are normal, so keep up the good work. However, your glucose level indicates pre-diabetes, so focus on diet, exercise, and weight management to prevent diabetes. Your BMI is in the healthy range, so maintain it through balanced nutrition and regular exercise.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: np.float64(5.5105566218809985)}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",8.24,0
+2024-11-22 15:45:58,Leonie,0,30,60,164,120,100,80,100,90,0,0,0,0,0,on,22.308149910767405,0,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 30, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 100/80 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 100 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your glucose level of 90 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 22.0 is in the healthy range. Maintain your healthy weight through balanced nutrition and regular exercise.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 120 is elevated. Consider discussing this with your healthcare provider.","
+        As a 30-year-old, it's crucial to maintain heart-healthy habits, even though you're still in a younger age group. Keep up the great work of being a non-smoker, and continue to make healthy choices. Your blood pressure and cholesterol levels are normal, so keep up the good work! Your blood sugar level is also normal, so keep it that way with healthy habits. Your BMI is in the healthy range, so keep it there with balanced nutrition and regular exercise. However, your resting heart rate is elevated, so it's best to discuss this with your healthcare provider.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: np.float64(5.5105566218809985)}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",4.83,0
+2024-11-22 15:47:07,Leonie,0,30,100,164,100,130,90,150,100,0,0,0,0,0,on,37.18024985127901,0,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 30, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 130/90 mmHg, which is high. 
+Consider lifestyle modifications such as:
+- Reducing sodium intake
+- Regular physical activity
+- Stress management techniques
+- Limiting alcohol consumption
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 150 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your glucose level of 100 mg/dL indicates pre-diabetes. Focus on diet, exercise, and weight management to prevent progression to diabetes.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 37.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        While you're still young at 30, it's crucial to maintain heart-healthy habits as they'll benefit you in the long run. Since you're a non-smoker, keep it up! Your blood pressure is high, so try reducing salt intake, doing regular exercise, managing stress, and limiting alcohol. Your cholesterol is normal, but keep up the good habits! Your glucose level indicates pre-diabetes, so focus on diet, exercise, and weight management to prevent diabetes. Your BMI is obese, so work with healthcare providers on a weight management plan. Even a 5-10% weight loss can improve heart health.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: np.float64(5.5105566218809985)}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",9.76,0
+2024-11-22 15:48:18,Leonie,0,40,90,164,100,140,100,200,100,0,0,0,0,0,on,33.462224866151104,0,"<b>Age-Related Recommendations:</b> 
+At age 40, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a good time to establish baseline measurements for heart health indicators.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 140/100 mmHg, which is high. 
+Consider lifestyle modifications such as:
+- Reducing sodium intake
+- Regular physical activity
+- Stress management techniques
+- Limiting alcohol consumption
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 200 mg/dL is borderline high. Focus on heart-healthy dietary choices and regular exercise to help maintain healthy cholesterol levels.
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your glucose level of 100 mg/dL indicates pre-diabetes. Focus on diet, exercise, and weight management to prevent progression to diabetes.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 33.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        At age 40, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a great time to establish baseline measurements for heart health indicators. Since you're a non-smoker, keep up the excellent choice for your heart health. Your blood pressure is high, so consider lifestyle modifications like reducing sodium intake, regular physical activity, stress management techniques, and limiting alcohol consumption. Your total cholesterol is borderline high, so focus on heart-healthy dietary choices and regular exercise to maintain healthy cholesterol levels. Your glucose level indicates pre-diabetes, so focus on diet, exercise, and weight management to prevent progression to diabetes. As your BMI falls into the obese range, consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: np.float64(5.5105566218809985)}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",20.57,0
+2024-11-22 15:53:25,Leonie,0,40,90,164,90,140,100,240,120,0,0,0,0,10,on,33.462224866151104,1,"<b>Age-Related Recommendations:</b> 
+At age 40, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a good time to establish baseline measurements for heart health indicators.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a light smoker (10 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 140/100 mmHg, which is high. 
+Consider lifestyle modifications such as:
+- Reducing sodium intake
+- Regular physical activity
+- Stress management techniques
+- Limiting alcohol consumption
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 240 mg/dL is high. Consider working with your healthcare provider on a plan to lower it through diet, exercise, and possibly medication.
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your glucose level of 120 mg/dL indicates pre-diabetes. Focus on diet, exercise, and weight management to prevent progression to diabetes.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 33.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        At age 40, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a great time to establish baseline measurements for heart health indicators. As a light smoker, quitting smoking would significantly reduce your heart disease risk. Even reducing consumption can have immediate health benefits. Your blood pressure is high, so consider lifestyle modifications like reducing sodium intake, regular physical activity, stress management techniques, and limiting alcohol consumption. Your total cholesterol is high, so work with your healthcare provider on a plan to lower it through diet, exercise, and possibly medication. Your glucose level indicates pre-diabetes, so focus on diet, exercise, and weight management to prevent progression to diabetes. Your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: np.float64(5.5105566218809985)}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",31.19,0
+2024-11-22 16:02:06,Leo,1,40,100,174,100,130,90,220,100,0,0,0,0,13,on,33.029462280354075,1,"<b>Age-Related Recommendations:</b> 
+At age 40, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a good time to establish baseline measurements for heart health indicators.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a moderate smoker (13 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 130/90 mmHg, which is high. 
+Consider lifestyle modifications such as:
+- Reducing sodium intake
+- Regular physical activity
+- Stress management techniques
+- Limiting alcohol consumption
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 220 mg/dL is borderline high. Focus on heart-healthy dietary choices and regular exercise to help maintain healthy cholesterol levels.
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your glucose level of 100 mg/dL indicates pre-diabetes. Focus on diet, exercise, and weight management to prevent progression to diabetes.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 33.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        At age 40, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a great time to establish baseline measurements for heart health indicators. As a moderate smoker, quitting smoking would significantly reduce your heart disease risk. Even reducing consumption can have immediate health benefits. Your blood pressure is high, so consider lifestyle modifications like reducing sodium intake, regular physical activity, stress management techniques, and limiting alcohol consumption. Your total cholesterol is borderline high, so focus on heart-healthy dietary choices and regular exercise to maintain healthy cholesterol levels. Your glucose level indicates pre-diabetes, so focus on diet, exercise, and weight management to prevent progression to diabetes. Your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: np.float64(5.5105566218809985)}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",32.25,0
+2024-11-22 16:11:58,Leonie,0,44,60,164,64,110,76,221,83,0,0,0,0,10,on,22.308149910767405,1,"<b>Age-Related Recommendations:</b> 
+At age 44, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a good time to establish baseline measurements for heart health indicators.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a light smoker (10 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 110/76 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 221 mg/dL is borderline high. Focus on heart-healthy dietary choices and regular exercise to help maintain healthy cholesterol levels.
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your glucose level of 83 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 22.0 is in the healthy range. Maintain your healthy weight through balanced nutrition and regular exercise.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        At age 44, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a great time to establish baseline measurements for heart health indicators. As a light smoker, quitting smoking would significantly reduce your heart disease risk. Check out www.lungenliga.ch for resources on smoking cessation, or consider reducing your consumption to enjoy immediate health benefits. Your blood pressure is normal, but your total cholesterol is borderline high. Focus on heart-healthy dietary choices and regular exercise to help maintain healthy cholesterol levels. Your glucose level is normal, so keep it that way by maintaining healthy habits. Your BMI is in the healthy range, so keep it there by sticking to balanced nutrition and regular exercise.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: np.float64(5.5105566218809985)}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",25.45,0
+2024-11-22 16:16:48,Leonie,0,45,65,164,65,116,87,285,55,0,0,0,0,20,on,24.167162403331353,1,"<b>Age-Related Recommendations:</b> 
+At age 45, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a good time to establish baseline measurements for heart health indicators.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a moderate smoker (20 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 116/87 mmHg, which is high. 
+Consider lifestyle modifications such as:
+- Reducing sodium intake
+- Regular physical activity
+- Stress management techniques
+- Limiting alcohol consumption
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 285 mg/dL is high. Consider working with your healthcare provider on a plan to lower it through diet, exercise, and possibly medication.
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your glucose level of 55 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 24.0 is in the healthy range. Maintain your healthy weight through balanced nutrition and regular exercise.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        At age 45, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a great time to establish baseline measurements for heart health indicators. As a moderate smoker, quitting smoking would significantly reduce your heart disease risk. Even reducing consumption can have immediate health benefits. Your blood pressure is high, so consider lifestyle modifications like reducing sodium intake, regular physical activity, stress management techniques, and limiting alcohol consumption. Your total cholesterol is high, so work with your healthcare provider on a plan to lower it through diet, exercise, and possibly medication. Your glucose level is normal, so keep it that way with healthy habits. Your BMI is in the healthy range, so maintain it through balanced nutrition and regular exercise. Remember to be aware of any additional risk factors.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: np.float64(5.5105566218809985)}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",33.94,0
+2024-11-24 11:29:48,Max Mustermann,1,42,80,180,70,115,95,120,158,0,0,0,0,20,on,24.691358024691358,1,"<b>Age-Related Recommendations:</b> 
+At age 42, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a good time to establish baseline measurements for heart health indicators.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a moderate smoker (20 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 115/95 mmHg, which is high. 
+Consider lifestyle modifications such as:
+- Reducing sodium intake
+- Regular physical activity
+- Stress management techniques
+- Limiting alcohol consumption
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 120 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 158 mg/dL is in the diabetic range. Please consult with your healthcare provider for proper evaluation and management.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 24.0 is in the healthy range. Maintain your healthy weight through balanced nutrition and regular exercise.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        At age 42, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a great time to establish baseline measurements for heart health indicators. As a moderate smoker, quitting smoking would significantly reduce your heart disease risk. Even reducing consumption can have immediate health benefits. Your blood pressure is high, so consider lifestyle modifications like reducing sodium intake, regular physical activity, stress management techniques, and limiting alcohol consumption. Your total cholesterol is within the normal range, so keep up your healthy habits! Your fasting glucose level is in the diabetic range, so please consult with your healthcare provider for proper evaluation and management. Your BMI is in the healthy range, so maintain your healthy weight through balanced nutrition and regular exercise. Remember to also consider any additional risk factors.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",42.14,0
+2024-11-26 15:17:57,Joëlle,0,66,66,150,100,124,50,700,74,0,0,0,0,0,on,29.333333333333332,0,"<b>Age-Related Recommendations:</b> 
+Given your age of 66, regular health check-ups are crucial. It's recommended to have comprehensive cardiovascular screenings at least annually. Your age puts you in a higher risk category for heart disease, making preventive care is especially important.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 124/50 mmHg, which is elevated. 
+Consider lifestyle modifications such as:
+- Reducing sodium intake
+- Regular physical activity
+- Stress management techniques
+- Limiting alcohol consumption
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 700 mg/dL is high. Consider working with your healthcare provider on a plan to lower it through diet, exercise, and possibly medication.
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 74 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 29.0 falls into the overweight range. Focus on achieving a healthy weight through balanced nutrition and regular physical activity.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        Based on your age of 66, it's crucial to have annual comprehensive cardiovascular screenings due to your higher risk category for heart disease. As a non-smoker, continue making healthy choices. Your elevated blood pressure of 124/50 mmHg requires lifestyle modifications such as reducing sodium intake, regular physical activity, stress management techniques, and limiting alcohol consumption. Your high cholesterol level of 700 mg/dL requires a plan with your healthcare provider through diet, exercise, and possibly medication. Your normal fasting glucose level of 74 mg/dL requires maintaining healthy habits. As someone in the overweight range with a BMI of 29.0, focus on achieving a healthy weight through balanced nutrition and regular physical activity.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",8.78,0
+2024-11-26 15:17:57,Joëlle,0,66,66,150,100,124,50,700,74,0,0,0,0,0,on,29.333333333333332,0,"<b>Age-Related Recommendations:</b> 
+Given your age of 66, regular health check-ups are crucial. It's recommended to have comprehensive cardiovascular screenings at least annually. Your age puts you in a higher risk category for heart disease, making preventive care is especially important.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 124/50 mmHg, which is elevated. 
+Consider lifestyle modifications such as:
+- Reducing sodium intake
+- Regular physical activity
+- Stress management techniques
+- Limiting alcohol consumption
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 700 mg/dL is high. Consider working with your healthcare provider on a plan to lower it through diet, exercise, and possibly medication.
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 74 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 29.0 falls into the overweight range. Focus on achieving a healthy weight through balanced nutrition and regular physical activity.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        Based on your age of 66, it's crucial to have annual comprehensive cardiovascular screenings due to your higher risk category for heart disease. As a non-smoker, continue making healthy choices. Your elevated blood pressure of 124/50 mmHg requires lifestyle modifications such as reducing sodium intake, regular physical activity, stress management techniques, and limiting alcohol consumption. Your high cholesterol level of 700 mg/dL requires a plan with your healthcare provider through diet, exercise, and possibly medication. Your normal fasting glucose level of 74 mg/dL requires maintaining healthy habits. As someone in the overweight range with a BMI of 29.0, focus on achieving a healthy weight through balanced nutrition and regular physical activity.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",8.78,0
+2024-11-26 15:17:59,Joëlle,0,66,66,150,100,124,50,700,74,0,0,0,0,0,on,29.333333333333332,0,"<b>Age-Related Recommendations:</b> 
+Given your age of 66, regular health check-ups are crucial. It's recommended to have comprehensive cardiovascular screenings at least annually. Your age puts you in a higher risk category for heart disease, making preventive care is especially important.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 124/50 mmHg, which is elevated. 
+Consider lifestyle modifications such as:
+- Reducing sodium intake
+- Regular physical activity
+- Stress management techniques
+- Limiting alcohol consumption
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 700 mg/dL is high. Consider working with your healthcare provider on a plan to lower it through diet, exercise, and possibly medication.
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 74 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 29.0 falls into the overweight range. Focus on achieving a healthy weight through balanced nutrition and regular physical activity.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        Based on your age of 66, it's crucial to have annual comprehensive cardiovascular screenings due to your higher risk category for heart disease. As a non-smoker, continue making healthy choices. Your elevated blood pressure of 124/50 mmHg requires lifestyle modifications such as reducing sodium intake, regular physical activity, stress management techniques, and limiting alcohol consumption. Your high cholesterol level of 700 mg/dL requires a plan with your healthcare provider through diet, exercise, and possibly medication. Your normal fasting glucose level of 74 mg/dL requires maintaining healthy habits. As someone in the overweight range with a BMI of 29.0, focus on achieving a healthy weight through balanced nutrition and regular physical activity.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",8.78,0
+2024-11-27 07:44:41,angelina,0,50,60,50,40,80,50,50,20,0,0,0,0,1,240.0,1,"<b>Age-Related Recommendations:</b> 
+At age 50, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a good time to establish baseline measurements for heart health indicators.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a light smoker (1 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 240.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        At age 50, it's recommended to have regular health check-ups every 1-3 years, depending on other risk factors. This is a good time to establish baseline measurements for heart health indicators. As a light smoker, quitting smoking would significantly reduce heart disease risk. Even reducing consumption can have immediate health benefits. Your blood pressure and cholesterol levels are normal, but your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. A 5-10% weight loss can significantly improve heart health. Your resting heart rate is low, so discuss this with your healthcare provider if you're not a trained athlete. Your fasting glucose level is normal, so maintain healthy habits to keep it in this range.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",60.23,1
+2024-11-27 15:58:43,dwe,1,18,30,50,40,80,50,50,20,0,0,0,0,1,120.0,1,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a light smoker (1 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        Dear 18-year-old,
+        While you're still young, it's important to maintain heart-healthy habits. This is a great opportunity to establish good health practices that will benefit you in the long term.
+        As a light smoker, quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+        Your blood pressure is normal, and your cholesterol level is within the normal range. Keep up your healthy habits!
+        Your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+        Your resting heart rate is low, but if you're not a trained athlete, discuss this with your healthcare provider.
+        Stay healthy and keep up the good work!",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",6.59,0
+2024-11-27 16:00:18,dwe,1,18,30,50,40,80,50,50,20,0,0,0,0,1,120.0,1,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a light smoker (1 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        Dear 18-year-old,
+        While you're still young, it's important to maintain heart-healthy habits. This is a great opportunity to establish good health practices that will benefit you in the long term.
+        As a light smoker, quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+        Your blood pressure is normal, and your cholesterol level is within the normal range. Keep up your healthy habits!
+        Your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+        Your resting heart rate is low, but if you're not a trained athlete, discuss this with your healthcare provider.
+        Stay healthy and keep up the good work!",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",6.59,0
+2024-11-27 16:00:33,dwe,1,18,30,50,40,80,100,50,20,0,0,0,0,1,120.0,1,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a light smoker (1 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/100 mmHg, which is high. 
+Consider lifestyle modifications such as:
+- Reducing sodium intake
+- Regular physical activity
+- Stress management techniques
+- Limiting alcohol consumption
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        Dear 18-year-old,
+        While you're still young, it's important to maintain heart-healthy habits. This is a great opportunity to establish good health practices that will benefit you in the long term.
+        As a light smoker, quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+        Your blood pressure is high, so consider lifestyle modifications such as reducing sodium intake, regular physical activity, stress management techniques, and limiting alcohol consumption.
+        Your total cholesterol is within the normal range, so keep up your healthy habits!
+        Your fasting glucose level is normal, so maintain healthy habits to keep it in this range.
+        Your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+        Your resting heart rate is low, so if you're not a trained athlete, discuss this with your healthcare provider.
+        Stay healthy and happy!",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",7.93,0
+2024-11-28 10:33:53,hellooo,0,18,30,50,40,80,50,50,20,0,0,0,1,1,120.0,1,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a light smoker (1 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+As you have diabetes, controlling blood sugar is crucial for your heart health. Regular monitoring, medication compliance, and lifestyle management are essential. Your current glucose level is 20 mg/dL.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        Age-Related Recommendations: As a young adult, it's crucial to maintain heart-healthy habits to benefit your long-term health.
+        Smoking Status and Recommendations: Quitting smoking, even as a light smoker, would significantly reduce your heart disease risk. Visit www.lungenliga.ch for resources on smoking cessation.
+        Blood Pressure Analysis: Your blood pressure of 80/50 mmHg is normal.
+        Cholesterol Status: Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+        Diabetes and Blood Sugar Analysis: As a diabetic, controlling blood sugar is crucial for your heart health. Regular monitoring, medication compliance, and lifestyle management are essential. Your current glucose level is 20 mg/dL.
+        Weight Status and Recommendations: Your BMI of 120.0 falls into the obese range. Work with healthcare providers on a weight management plan, as a 5-10% weight loss can significantly improve heart health.
+        Additional Risk Factors: Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",7.37,0
+2024-11-28 11:15:29,saei,1,18,30,50,41,80,50,50,20,0,0,0,0,1,120.0,1,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a light smoker (1 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 41 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        Dear 18-year-old,
+        While you're still young, it's important to maintain heart-healthy habits. This is a great opportunity to establish good health practices that will benefit you in the long term.
+        As a light smoker, quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+        Your blood pressure is normal, and your cholesterol level is within the normal range. Keep up your healthy habits!
+        Your fasting glucose level is normal, but it's essential to maintain this range.
+        Your BMI falls into the obese range, and we recommend working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+        Your resting heart rate is low, but if you're not a trained athlete, discuss this with your healthcare provider.
+        Stay friendly and accurate!",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",6.55,0
+2024-11-28 11:22:35,fuck,0,19,30,50,40,80,50,50,20,0,0,0,0,1,120.0,1,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 19, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a light smoker (1 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        Dear 19-year-old,
+        While you're still young, it's important to maintain heart-healthy habits. This is a great opportunity to establish good health practices that will benefit you in the long term.
+        As a light smoker, quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+        Your blood pressure is normal, and your cholesterol level is within the normal range. Keep up your healthy habits!
+        Your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+        Your resting heart rate is low, but if you're not a trained athlete, discuss this with your healthcare provider.
+        Stay healthy and keep up the good work!",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",5.22,0
+2024-11-28 11:23:22,fuck,0,19,30,50,40,80,50,50,20,0,0,0,0,1,120.0,1,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 19, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a light smoker (1 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        Dear 19-year-old,
+        While you're still young, it's important to maintain heart-healthy habits. This is a great opportunity to establish good health practices that will benefit you in the long term.
+        As a light smoker, quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+        Your blood pressure is normal, and your cholesterol level is within the normal range. Keep up your healthy habits!
+        Your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+        Your resting heart rate is low, but if you're not a trained athlete, discuss this with your healthcare provider.
+        Stay healthy and keep up the good work!",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",5.22,0
+2024-11-28 11:24:51,sdfd,1,18,30,50,40,80,50,50,20,0,0,0,0,0,120.0,0,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        As a young adult, it's crucial to maintain heart-healthy habits that will benefit you in the long run. Since you're currently a non-smoker, keep up this healthy choice. Your blood pressure and cholesterol levels are normal, so keep up your good habits! Your fasting glucose level is also normal, but make sure to maintain healthy habits to keep it that way. However, your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health. Your resting heart rate is low, but if you're not a trained athlete, discuss this with your healthcare provider.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",6.02,0
+2024-11-28 11:25:55,sdfd,1,18,30,50,40,80,50,50,20,0,0,0,0,0,120.0,0,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        As a young adult, it's crucial to maintain heart-healthy habits that will benefit you in the long run. Since you're currently a non-smoker, keep up this healthy choice. Your blood pressure and cholesterol levels are normal, so keep up your good habits! Your fasting glucose level is also normal, but make sure to maintain healthy habits to keep it that way. However, your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health. Your resting heart rate is low, but if you're not a trained athlete, discuss this with your healthcare provider.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",6.02,0
+2024-11-28 12:08:34,jdow,0,30,60,150,90,90,80,100,100,0,0,0,0,33,26.666666666666668,1,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 30, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a heavy smoker (33 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 90/80 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 100 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 100 mg/dL indicates pre-diabetes. Focus on diet, exercise, and weight management to prevent progression to diabetes. It is recommended to consult a healthcare provider to checkfor undiagnosed diabetes
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 26.0 falls into the overweight range. Focus on achieving a healthy weight through balanced nutrition and regular physical activity.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        While you're still in a younger age group at 30, it's important to maintain heart-healthy habits as a foundation for long-term health.
+        As a heavy smoker, quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation, or try reducing your consumption for immediate health benefits.
+        Your blood pressure of 90/80 mmHg is normal. Keep up your healthy habits!
+        Your total cholesterol of 100 mg/dL is within the normal range. Keep it up!
+        Your fasting glucose level of 100 mg/dL indicates pre-diabetes. Focus on diet, exercise, and weight management to prevent progression to diabetes. Consult a healthcare provider to check for undiagnosed diabetes.
+        Your BMI of 26.0 falls into the overweight range. Focus on achieving a healthy weight through balanced nutrition and regular physical activity.
+        Additional risk factors may apply. Consult a healthcare provider for a comprehensive assessment.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",13.33,0
+2024-11-28 12:11:25,wrgq,0,20,30,51,40,80,51,50,20,1,0,0,0,1,115.34025374855825,1,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 20, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a light smoker (1 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/51 mmHg, which is normal. Continue taking your prescribed blood pressure medications consistently. Regular monitoring and medication compliance are crucial for managing your blood pressure.
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 115.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        Age-related recommendations: As a 20-year-old, focus on establishing heart-healthy habits that will benefit you in the long term.
+        Smoking status and recommendations: Quitting smoking, even as a light smoker, would significantly reduce your heart disease risk. Visit www.lungenliga.ch for resources on smoking cessation.
+        Blood pressure analysis: Your blood pressure is normal at 80/51 mmHg. Consistently take your prescribed blood pressure medications and monitor regularly.
+        Cholesterol status: Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+        Diabetes and blood sugar analysis: Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+        Weight status and recommendations: Your BMI of 115.0 falls into the obese range. Work with healthcare providers on a weight management plan, as a 5-10% weight loss can significantly improve heart health.
+        Additional risk factors: Your resting heart rate of 40 is low. Discuss this with your healthcare provider, especially if you're not a trained athlete.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",7.2,0
+2024-11-28 12:11:26,wrgq,0,20,30,51,40,80,51,50,20,1,0,0,0,1,115.34025374855825,1,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 20, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a light smoker (1 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/51 mmHg, which is normal. Continue taking your prescribed blood pressure medications consistently. Regular monitoring and medication compliance are crucial for managing your blood pressure.
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 115.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        Age-related recommendations: As a 20-year-old, focus on establishing heart-healthy habits that will benefit you in the long term.
+        Smoking status and recommendations: Quitting smoking, even as a light smoker, would significantly reduce your heart disease risk. Visit www.lungenliga.ch for resources on smoking cessation.
+        Blood pressure analysis: Your blood pressure is normal at 80/51 mmHg. Consistently take your prescribed blood pressure medications and monitor regularly.
+        Cholesterol status: Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+        Diabetes and blood sugar analysis: Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+        Weight status and recommendations: Your BMI of 115.0 falls into the obese range. Work with healthcare providers on a weight management plan, as a 5-10% weight loss can significantly improve heart health.
+        Additional risk factors: Your resting heart rate of 40 is low. Discuss this with your healthcare provider, especially if you're not a trained athlete.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",7.2,0
+2024-11-28 12:14:18,sdf,0,18,30,50,40,80,50,52,20,0,0,0,0,0,120.0,0,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 52 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        As a young adult, it's crucial to maintain heart-healthy habits that will benefit you in the long run. Since you're currently a non-smoker, keep up this healthy choice. Your blood pressure and cholesterol levels are normal, so keep up your good habits! Your fasting glucose level is also normal, so continue maintaining healthy habits. However, your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health. If your resting heart rate is low, discuss this with your healthcare provider, especially if you're not a trained athlete.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",4.47,0
+2024-11-28 13:35:21,Max Mustermann,1,38,80,180,63,110,90,100,140,0,1,0,0,20,24.691358024691358,1,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 38, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a moderate smoker (20 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 110/90 mmHg, which is high. 
+Consider lifestyle modifications such as:
+- Reducing sodium intake
+- Regular physical activity
+- Stress management techniques
+- Limiting alcohol consumption
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 100 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 140 mg/dL is in the diabetic range. Please consult with your healthcare provider for proper evaluation and management.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 24.0 is in the healthy range. Maintain your healthy weight through balanced nutrition and regular exercise.
+
+<br> <br><b> Additional Risk Factors:</b>
+You have a history of stroke. This makes preventive care and risk factor management especially crucial.","
+        As a 38-year-old, it's important to maintain heart-healthy habits, even if you're in a younger age group. Quitting smoking, which you currently do moderately, would significantly reduce your heart disease risk. Your blood pressure is high, so consider lifestyle modifications like reducing sodium intake, regular physical activity, stress management techniques, and limiting alcohol consumption. Your total cholesterol is within the normal range, so keep up your healthy habits. Your fasting glucose level is in the diabetic range, so please consult with your healthcare provider. Your BMI is in the healthy range, so maintain it through balanced nutrition and regular exercise. As someone with a history of stroke, preventive care and risk factor management are especially crucial.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",59.45,1
+2024-11-30 18:41:05,susi,0,45,75,160,95,90,110,100,150,0,0,0,0,55,29.296874999999993,1,"<b>Age-Related Recommendations:</b> 
+At age 45, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a good time to establish baseline measurements for heart health indicators.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+As a heavy smoker (55 cigarettes per day), quitting smoking would significantly reduce your heart disease risk. Consider visiting www.lungenliga.ch for resources on smoking cessation. Even reducing consumption can have immediate health benefits.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 90/110 mmHg, which is high. 
+Consider lifestyle modifications such as:
+- Reducing sodium intake
+- Regular physical activity
+- Stress management techniques
+- Limiting alcohol consumption
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 100 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 150 mg/dL is in the diabetic range. Please consult with your healthcare provider for proper evaluation and management.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 29.0 falls into the overweight range. Focus on achieving a healthy weight through balanced nutrition and regular physical activity.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        At age 45, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a great time to establish baseline measurements for heart health indicators. As a heavy smoker, quitting smoking would significantly reduce your heart disease risk. Even reducing consumption can have immediate health benefits. Your blood pressure is high, so consider lifestyle modifications like reducing sodium intake, regular physical activity, stress management techniques, and limiting alcohol consumption. Your total cholesterol is within the normal range, so keep up your healthy habits! Your fasting glucose level is in the diabetic range, so please consult with your healthcare provider for proper evaluation and management. Your BMI falls into the overweight range, so focus on achieving a healthy weight through balanced nutrition and regular physical activity. Remember to also consider any additional risk factors.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",52.15,1
+2024-11-30 18:52:44,rthq1,1,50,70,50,100,83,50,50,20,0,0,0,0,0,280.0,0,"<b>Age-Related Recommendations:</b> 
+At age 50, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a good time to establish baseline measurements for heart health indicators.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 83/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 280.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        At age 50, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a great time to establish baseline measurements for heart health indicators. Since you're a non-smoker, keep up this healthy choice. Your blood pressure of 83/50 mmHg is normal, and your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits! Your fasting glucose level of 20 mg/dL is normal, so continue maintaining healthy habits. However, your BMI of 280.0 falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",66.07,1
+2024-11-30 18:52:44,rthq1,1,50,70,50,100,83,50,50,20,0,0,0,0,0,280.0,0,"<b>Age-Related Recommendations:</b> 
+At age 50, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a good time to establish baseline measurements for heart health indicators.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 83/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 280.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        At age 50, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a great time to establish baseline measurements for heart health indicators. Since you're a non-smoker, keep up this healthy choice. Your blood pressure of 83/50 mmHg is normal, and your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits! Your fasting glucose level of 20 mg/dL is normal, so continue maintaining healthy habits. However, your BMI of 280.0 falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",66.07,1
+2024-11-30 18:52:44,rthq1,1,50,70,50,100,83,50,50,20,0,0,0,0,0,280.0,0,"<b>Age-Related Recommendations:</b> 
+At age 50, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a good time to establish baseline measurements for heart health indicators.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 83/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 280.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>","
+        At age 50, it's recommended to have regular health check-ups every 1-3 years, depending on your other risk factors. This is a great time to establish baseline measurements for heart health indicators. Since you're a non-smoker, keep up this healthy choice. Your blood pressure of 83/50 mmHg is normal, and your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits! Your fasting glucose level of 20 mg/dL is normal, so continue maintaining healthy habits. However, your BMI of 280.0 falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",66.07,1
+2024-11-30 19:06:10,e,1,18,30,50,40,80,50,50,20,0,0,0,0,0,120.0,0,"<b>Age-Related Recommendations:</b> 
+While you're in a younger age group at 18, it's still important to maintain heart-healthy habits. Consider this an opportunity to establish good health practices that will benefit you in the long term.
+
+<br><br><b>Smoking Status and Recommendations:</b> 
+You're currently a non-smoker, which is excellent for your heart health. Continue maintaining this healthy choice.
+
+<br><br><b>Blood Pressure Analysis:</b> 
+Your blood pressure is 80/50 mmHg, which is normal. 
+
+<br><br><b> Cholesterol Status:</b> 
+Your total cholesterol of 50 mg/dL is within the normal range. Keep up your healthy habits!
+
+<br><br> <b> Diabetes and Blood Sugar Analysis:</b> 
+Your fasting glucose level of 20 mg/dL is normal. Maintain healthy habits to keep it in this range.
+
+<br><br> <b> Weight Status and Recommendations:</b>
+Your BMI of 120.0 falls into the obese range. Consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health.
+
+<br> <br><b> Additional Risk Factors:</b>
+Your resting heart rate of 40 is low. If you're not a trained athlete, discuss this with your healthcare provider.","
+        As a young adult, it's crucial to maintain heart-healthy habits that will benefit you in the long run. Since you're currently a non-smoker, keep up this healthy choice. Your blood pressure and cholesterol levels are normal, so keep up your good habits! Your fasting glucose level is also normal, but make sure to maintain healthy habits to keep it that way. However, your BMI falls into the obese range, so consider working with healthcare providers on a weight management plan. Even a 5-10% weight loss can significantly improve heart health. Your resting heart rate is low, but if you're not a trained athlete, discuss this with your healthcare provider.",LogisticRegression,"{'C': 1.0, 'class_weight': {0: 1, 1: 5.5105566218809985}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}",6.02,0

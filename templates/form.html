@@ -1,0 +1,148 @@
+<!-- a lot from chatGPT -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Data Entry Form | Health Risk Report</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="icon" href="/static/logo.ico" type="image/x-icon">
+</head>
+
+<body>
+
+    <header class="navbar">
+        <a href="/" class="logo-link">
+            <img src="{{ url_for('static', filename='logo.ico') }}" alt="Logo" class="logo-img">
+        </a>
+        <ul class="nav-links">
+            <li><a href="/">Home</a></li>
+            <li><a href="/form">Form</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/contact">Contact</a></li>
+        </ul>
+    </header>
+
+    <div class="container">
+        <h1>Health Data Entry Form</h1>
+        <form action="/submit" method="POST">
+
+            <!-- Name -->
+            <label for="Name">Name:</label>
+            <input type="text" id="Name" name="Name" placeholder="Enter your full name" required>
+             
+            <!-- Sex -->
+            <label for="male">Gender:</label>
+            <select id="male" name="male" required>
+                <option value="">Select gender</option>
+                <option value="1">Male</option>
+                <option value="0">Female</option>
+            </select>
+
+            <!-- Age -->
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" min="18" max="150" step="1" placeholder="Enter age in years" required>
+
+            <!-- BMI -->
+            <!-- <label for="BMI">BMI:</label>
+            <input type="number" step="0.1" id="BMI" name="BMI" placeholder="Enter BMI" required> -->
+            <label for="weight">weight in kg:</label>
+            <input type="number" min="30" max="300" step="0.1" id="weight" name="weight" placeholder="Enter weight in kg" required>
+            <label for="height">height in cm:</label>
+            <input type="number" min="50" max="250" step="1" id="height" name="height" placeholder="Enter height in cm" required>     
+
+            <!-- Heart Rate -->
+            <label for="heartRate">Heart Rate:</label>
+            <input type="number" min="40" max="200" step="1" id="heartRate" name="heartRate" placeholder="Enter heart rate" required>
+
+            <!-- Systolic Blood Pressure -->
+            <label for="sysBP">Systolic Blood Pressure:</label>
+            <input type="number" min="80" max="230" step="1" id="sysBP" name="sysBP" placeholder="Enter systolic BP" required>
+
+            
+            <!-- Diastolic Blood Pressure -->
+            <label for="diaBP">Diastolic Blood Pressure:</label>
+            <input type="number" min= "50" max="150" step="1" id="diaBP" name="diaBP" placeholder="Enter diastolic BP" required>
+
+
+            <!-- Total Cholesterol -->
+            <label for="totChol">Total Cholesterol (mg/dL):</label>
+            <input type="number" min="50" max= "800" step="1" id="totChol" name="totChol" placeholder="Enter total cholesterol" required>
+
+
+            <!-- Glucose -->
+            <label for="glucose"> Fasting Glucose (mg/dL):</label>
+            <input type="number" min="20" max="1000" step="1" id="glucose" name="glucose" placeholder="Enter glucose level" required>
+            
+            <!-- Blood Pressure Medication -->
+            <label>Blood Pressure Medication:</label>
+            <div class="radio-group">
+                <input type="radio" id="bpmeds_yes" name="BPMeds" value="1" required>
+                <label for="bpmeds_yes">Yes</label>
+                <input type="radio" id="bpmeds_no" name="BPMeds" value="0">
+                <label for="bpmeds_no">No</label>
+            </div>
+
+            <!-- Prevalent Stroke -->
+            <label>Prevalent Stroke:</label>
+            <div class="radio-group">
+                <input type="radio" id="stroke_yes" name="prevalentStroke" value="1" required>
+                <label for="stroke_yes">Yes</label>
+                <input type="radio" id="stroke_no" name="prevalentStroke" value="0">
+                <label for="stroke_no">No</label>
+            </div>
+
+            <!-- Prevalent Hypertension -->
+            <label>Prevalent Hypertension:</label>
+            <div class="radio-group">
+                <input type="radio" id="hyp_yes" name="prevalentHyp" value="1" required>
+                <label for="hyp_yes">Yes</label>
+                <input type="radio" id="hyp_no" name="prevalentHyp" value="0">
+                <label for="hyp_no">No</label>
+            </div>
+
+            <!-- Diabetes -->
+            <label>Diabetes:</label>
+            <div class="radio-group">
+                <input type="radio" id="diabetes_yes" name="diabetes" value="1" required>
+                <label for="diabetes_yes">Yes</label>
+                <input type="radio" id="diabetes_no" name="diabetes" value="0">
+                <label for="diabetes_no">No</label>
+            </div>
+
+
+
+            <!-- Smoking Status -->
+            <!-- <label>Current Smoker:</label>
+            <div class="radio-group">
+                <input type="radio" id="smoker_yes" name="currentSmoker" value="1" required>
+                <label for="smoker_yes">Yes</label>
+                <input type="radio" id="smoker_no" name="currentSmoker" value="0">
+                <label for="smoker_no">No</label>
+            </div> -->
+
+            <!-- Cigarettes per Day -->
+            <label for="cigsPerDay">Cigarettes per Day (if non smoker enter 0):</label>
+            <input type="number" id="cigsPerDay" name="cigsPerDay" min = 0 max = 300 step = 1 placeholder="Enter number of cigarettes, if non smoker enter 0" required>
+           
+            <label for="confirm_agbs"> Confirm AGBs:</label>
+            <input type="checkbox" id="checkbox" required>
+                I agree to the <a href="/agb" target="_blank">terms and conditions</a>
+            <br>
+            <label for="confirm_data_processing"> Confirm the use of userdata to get LLM report:</label>
+            <input name="data_processing" type="checkbox" id="checkbox">
+            <div class="button-container">
+                <input type="submit" value="Submit" class="btn-primary">
+            </div>
+
+        </form>
+    </div>
+    <footer class="footer">
+        <p>&copy; 2024 Health Risk Report. All rights reserved.</p>
+        <ul class="footer-links">
+            <li><a href="/privacy">Privacy Policy</a></li>
+            <li><a href="/terms">Terms of Service</a></li>
+        </ul>
+    </footer>
+</body>
+</html>
